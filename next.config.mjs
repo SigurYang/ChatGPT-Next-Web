@@ -8,7 +8,6 @@ console.log("[Next] build with chunk: ", !disableChunk);
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: '/chat', // Added basePath configuration
   webpack(config) {
     config.module.rules.push({
       test: /\.svg$/,

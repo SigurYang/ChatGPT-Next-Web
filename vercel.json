@@ -1,16 +1,14 @@
 {
     "github": {
         "silent": true
-    }
+    },
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "/chat",
+            "permanent": true
+        }
+    ]
 }
 
-{
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/chat",
-      "permanent": true
-    }
-  ]
-}
 

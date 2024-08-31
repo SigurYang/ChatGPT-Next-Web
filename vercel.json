@@ -3,3 +3,14 @@
         "silent": true
     }
 }
+
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/chat",
+      "permanent": true
+    }
+  ]
+}
+

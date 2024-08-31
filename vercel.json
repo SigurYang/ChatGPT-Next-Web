@@ -1,17 +1,6 @@
 {
     "github": {
         "silent": true
-    },
-    "redirects": [
-        {
-            "source": "/",
-            "destination": "/chat",
-            "permanent": true
-        }
-    ]
+    }
 }
-<<<<<<< HEAD
 
-
-=======
->>>>>>> parent of bef5b5a (Update vercel.json)
